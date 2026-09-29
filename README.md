@@ -14,15 +14,19 @@ I am an aspiring Data Analyst with hands-on experience working with **Excel, SQL
 ## 📂 Projects
 
 ### 📈 Excel – Inventory Optimization & Stockout Risk Analysis
+[View Project →](https://github.com/Dikshamote/Inventory-Optimization-Stockout-Risk-Analysis)
 Sales analysis project focused on understanding sales performance, product trends, and regional performance using Excel.
 
 ### 🗄️ SQL – E-commerce Customer & Revenue Intelligence 
+[View Project →](https://github.com/Dikshamote/Ecommerce-Customer-Revenue-Analysis)
 SQL-based analysis involving data exploration, filtering, joins, aggregations, and business insights.
 
 ### 📊 Power BI – Customer Churn Analysis
+[View Project →](https://github.com/Dikshamote/Customer-Churn-Analysis)
 Interactive Power BI dashboard designed to analyze sales performance and present key KPIs and trends.
 
 ### 🐍 Python – Product Review & Customer Sentiment Analysis
+[View Project →](https://github.com/Dikshamote/Product-review-and-customer-sentiment-analysis)
 Exploratory data analysis of Netflix data using Python to identify content trends and patterns.
 
 ## 🎯 Career Goal
