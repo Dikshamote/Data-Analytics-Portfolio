@@ -13,16 +13,16 @@ I am an aspiring Data Analyst with hands-on experience working with **Excel, SQL
 
 ## 📂 Projects
 
-### 📈 Excel – Sales Analysis
+### 📈 Excel – Inventory Optimization & Stockout Risk Analysis
 Sales analysis project focused on understanding sales performance, product trends, and regional performance using Excel.
 
-### 🗄️ SQL – Data Analysis
+### 🗄️ SQL – E-commerce Customer & Revenue Intelligence 
 SQL-based analysis involving data exploration, filtering, joins, aggregations, and business insights.
 
-### 📊 Power BI – Sales Dashboard
+### 📊 Power BI – Customer Churn Analysis
 Interactive Power BI dashboard designed to analyze sales performance and present key KPIs and trends.
 
-### 🐍 Python – Netflix Data Analysis
+### 🐍 Python – Product Review & Customer Sentiment Analysis
 Exploratory data analysis of Netflix data using Python to identify content trends and patterns.
 
 ## 🎯 Career Goal
@@ -31,5 +31,5 @@ I am currently looking for opportunities as a **Data Analyst / BI Analyst / Repo
 
 ## 📫 Connect With Me
 
-- **LinkedIn:** https://www.linkedin.com/in/diksha-mote-35177331b?utm_source=share_via&utm_content=profile&utm_medium=member_android
+- **LinkedIn:** https://www.linkedin.com/in/diksha-mote
 - **Email:** dikshamote16@gmail.com
