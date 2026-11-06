@@ -41,7 +41,7 @@ Performed SQL-based analysis to explore customer behavior, revenue trends, and b
 
 ---
 
-### 3. 🔄 Customer Retention Analytics
+### 3. 🔄 Customer Churn Analytics
 
 **Tools:** Power BI
 
