@@ -2,106 +2,93 @@
 
 Welcome to my Data Analytics Portfolio!
 
-I am an aspiring **Data Analyst** with hands-on experience in Excel, SQL, Power BI, and Python. I enjoy exploring datasets, identifying trends, solving business problems, and transforming raw data into meaningful insights.
+I am an aspiring **Data Analyst** with hands-on experience in Excel, SQL, Power BI, and Python. I enjoy exploring datasets, identifying trends, solving business problems, and transforming raw data into meaningful business insights.
 
 ---
 
 ## 🛠️ Skills & Tools
 
 - **Excel:** Data Cleaning, Pivot Tables, Lookup Functions, Advanced Formulas, Dashboards and Data Visualization
-- **SQL:** Joins, Aggregations, Subqueries, CTEs, Window Functions and Data Analysis
+- **SQL:** Data Exploration, Joins, Aggregations, Subqueries, CTEs, Window Functions and Data Analysis
 - **Power BI:** Power Query, Data Modeling, DAX, KPI Reporting, Interactive Dashboards and Visualization
-- **Python:** Pandas, NumPy, Matplotlib, Seaborn, Exploratory Data Analysis (EDA)
+- **Python:** Pandas, NumPy, Matplotlib, Seaborn and Exploratory Data Analysis (EDA)
 
 ---
 
 ## 📁 Projects
 
-### 1. 📈 Excel – Inventory Optimization & Stockout Risk Analysis
+### 1. 📦 Supply Chain Analytics
 
 **Tools:** Microsoft Excel
 
-Analyzed inventory data to identify stockout risks, product demand patterns, and replenishment requirements.
+**Project:** Inventory Optimization & Stockout Risk Analysis
 
-- Cleaned and organized inventory data.
-- Analyzed stock levels and shortage patterns.
-- Identified products with potential stockout risks.
-- Created Pivot Tables and an interactive dashboard.
-- Developed insights to support inventory management decisions.
+Analyzed inventory data to understand stock levels, product demand, and potential stockout risks. Generated insights to support better inventory management and replenishment decisions.
 
-[View Project →](https://github.com/Dikshamote/Supply-Chain-Sales-Analysis)
+[View Project →](ADD_EXCEL_REPOSITORY_LINK)
 
 ---
 
-### 2. 🗄️ SQL – E-commerce Customer & Revenue Intelligence
+### 2. 🛒 E-commerce Analytics
 
 **Tools:** SQL
 
-Performed SQL-based analysis to explore customer behavior, revenue patterns, and business performance.
+**Project:** E-commerce Customer & Revenue Intelligence
 
-- Explored and analyzed structured datasets.
-- Used SQL joins, filtering and aggregations.
-- Applied subqueries and advanced SQL techniques.
-- Analyzed customer and revenue-related trends.
-- Generated business insights through SQL queries.
+Performed SQL-based analysis to explore customer behavior, revenue trends, and business performance using data exploration, joins, aggregations, and advanced queries.
 
 [View Project →](ADD_SQL_REPOSITORY_LINK)
 
 ---
 
-### 3. 📊 Power BI – Customer Churn Analysis
+### 3. 🔄 Customer Retention Analytics
 
 **Tools:** Power BI
 
-Developed an interactive dashboard to analyze customer churn, identify customer segments, and understand factors affecting customer retention.
+**Project:** Customer Churn Analysis
 
-- Analyzed customer churn patterns.
-- Identified customer segments with higher churn.
-- Created KPI cards and interactive visualizations.
-- Used DAX measures and data modeling.
-- Presented insights to support customer retention strategies.
+Developed an interactive dashboard to analyze customer churn patterns, identify high-risk customer segments, and understand factors affecting customer retention.
 
-[View Project →](https://github.com/Dikshamote/Customer-Churn-Analysis-PowerBI)
+[View Project →](ADD_POWER_BI_REPOSITORY_LINK)
 
 ---
 
-### 4. 🐍 Python – Product Review & Customer Sentiment Analysis
+### 4. ⭐ Product Review Analytics
 
-**Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn
+**Tools:** Python
 
-Performed exploratory data analysis on product review data to understand customer feedback and sentiment patterns.
+**Project:** Product Review & Customer Sentiment Analysis
 
-- Explored and cleaned product review data.
-- Analyzed customer ratings and review patterns.
-- Identified positive and negative feedback trends.
-- Created visualizations to understand customer opinions.
-- Derived insights into customer satisfaction.
+Performed exploratory data analysis on product review data to examine customer ratings, review patterns, and feedback trends. Used Python visualizations to present findings and understand customer opinions.
 
 [View Project →](ADD_PYTHON_REPOSITORY_LINK)
 
 ---
 
-### 5. 👥 HR – Employee Attrition & Retention Analysis
+### 5. 🏢 HR Analytics
 
 **Tools:** Microsoft Excel, Power BI
 
-Analyzed employee data to understand workforce attrition, identify employee trends, and explore factors associated with employee turnover.
+**Project:** Employee Attrition & Retention Analysis
 
-- Examined employee attrition and retention patterns.
-- Analyzed attrition across departments and job roles.
+Analyzed employee data to identify attrition patterns, examine workforce trends, and understand factors associated with employee turnover.
+
+- Examined attrition across departments and job roles.
 - Used Excel Pivot Tables for data analysis.
 - Developed an interactive Power BI dashboard.
-- Presented HR insights to support employee retention planning.
+- Presented insights to support employee retention planning.
 
 [View Project →](https://github.com/Dikshamote/HR-Employee-Attrition-Retention-Analysis)
 
 ---
 
-### 6. 💰 Finance – Corporate Financial Health & Bankruptcy Risk Analysis
+### 6. 💰 Financial Analytics & Risk Analysis
 
 **Tools:** SQL Server, Power BI
 
-Analyzed corporate financial data to evaluate financial performance, examine risk indicators, and understand potential bankruptcy risk patterns.
+**Project:** Corporate Financial Health & Bankruptcy Risk Analysis
+
+Analyzed corporate financial data to evaluate financial performance, examine financial risk indicators, and identify patterns associated with potential bankruptcy risk.
 
 - Explored corporate financial data using SQL Server.
 - Analyzed revenue, profitability, debt and liquidity indicators.
@@ -115,7 +102,7 @@ Analyzed corporate financial data to evaluate financial performance, examine ris
 
 ## 🎯 Career Objective
 
-I am actively seeking opportunities as a **Data Analyst / BI Analyst / Reporting Analyst**, where I can apply my analytical, problem-solving, and data visualization skills to support business decisions and solve real-world problems.
+I am actively seeking opportunities as a **Data Analyst / BI Analyst / Reporting Analyst**, where I can apply my analytical, problem-solving, and data visualization skills to support business decisions and solve real-world business problems.
 
 ---
 
